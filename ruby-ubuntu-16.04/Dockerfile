@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Zack Siri <zack@codemy.net>
+MAINTAINER Iwan Buetti <zack@codemy.net>
 
 # set the locale for Ruby / Rails
 RUN locale-gen en_US.UTF-8
