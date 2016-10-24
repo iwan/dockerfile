@@ -16,7 +16,7 @@ Create a `Dockerfile` with the following content
 
 ``` docker
 FROM codemy/ruby:latest
-MAINTAINER Zack Siri <zack@codemy.net>
+MAINTAINER Iwan Buetti <iwan.buetti@gmail.com>
 
 COPY . /usr/src/app
 
